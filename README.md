@@ -1,4 +1,4 @@
-# Java Tree-sitter
+ # Java Tree-sitter
 
 [![CI][ci]](https://github.com/tree-sitter/java-tree-sitter/actions/workflows/ci.yml)
 [![central][central]](https://central.sonatype.com/artifact/io.github.tree-sitter/jtreesitter)
